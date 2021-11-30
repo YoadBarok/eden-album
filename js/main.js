@@ -10,7 +10,7 @@ var images = [
     {
         "number": 0,
         "title": "Eden day - 01",
-        "textColor": "black",
+        "textColor": "white",
         "details": "Eden's first day on this planet! Already looking disappointed...",
         "source": "img/edenBirth.jpeg"
     },
